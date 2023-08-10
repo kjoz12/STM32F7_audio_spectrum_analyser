@@ -1,0 +1,4 @@
+../Core/Src/rcc.c:10:6:set_ahb1_periph_clock	0	static
+../Core/Src/rcc.c:16:6:set_ahb2_periph_clock	0	static
+../Core/Src/rcc.c:21:6:set_apb1_periph_clock	0	static
+../Core/Src/rcc.c:26:6:set_apb2_periph_clock	0	static

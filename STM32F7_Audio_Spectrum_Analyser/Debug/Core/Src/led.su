@@ -1,0 +1,7 @@
+../Core/Src/led.c:7:6:user_leds_init	0	static
+../Core/Src/led.c:30:6:all_leds_on	0	static
+../Core/Src/led.c:37:6:all_leds_off	0	static
+../Core/Src/led.c:44:6:all_leds_toggle	0	static
+../Core/Src/led.c:50:6:led_toggle	0	static
+../Core/Src/led.c:56:6:led_on	0	static
+../Core/Src/led.c:61:6:led_off	0	static

@@ -1,0 +1,7 @@
+led.c:7:6:user_leds_init	1
+led.c:30:6:all_leds_on	1
+led.c:37:6:all_leds_off	1
+led.c:44:6:all_leds_toggle	1
+led.c:50:6:led_toggle	1
+led.c:56:6:led_on	1
+led.c:61:6:led_off	1
